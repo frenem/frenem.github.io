@@ -28,6 +28,12 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@font-face { 
+	font-family: "Futura"; 
+	src: url('fonts/Futura.ttf'); 
+}
+
 .container {
   position: relative;
   width: 100%;
@@ -125,7 +131,7 @@ body {
           font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
           line-height: 1.6;
           font-weight: 400;
-          font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-family: "Futura","Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
           color: #cbf442; 
           background-color:black;
      } 
