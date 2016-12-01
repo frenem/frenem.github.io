@@ -30,8 +30,8 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 @font-face { 
-	font-family: "Futura"; 
-	src: url('fonts/Futura.ttf'); 
+	font-family: "futura"; 
+	src: url('fonts/futura.ttf'); 
 }
 
 .container {
